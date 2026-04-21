@@ -7,4 +7,5 @@
 [![Top Langs](https://github-readme-stats-t-wy.vercel.app/api/top-langs/?langs_count=8&layout=donut&theme=omni&)](https://github.com/t-wy/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats-t-wy.vercel.app/api/top-langs/?langs_count=8&layout=donut&theme=rose&bg_color=eee6eb)](https://github.com/t-wy/github-readme-stats#gh-light-mode-only)
 
+All services are provided ad-free and free-of-charge. If you find some features useful or matter to you, a generous support would help me sustain my passion and keep on developing new tools.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E1TZF4V)
