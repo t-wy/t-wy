@@ -12,5 +12,6 @@ All services are provided ad-free and free-of-charge. If you find some features 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E1TZF4V)
 
 All personal projects are developed without AI-generated codes unless explicitly specified.
+
 [![Developed By a Human Not By AI Badge](img/Developed-By-a-Human-Not-By-AI-Badge-black.png)](https://notbyai.fyi/#gh-dark-mode-only)
 [![Developed By a Human Not By AI Badge](img/Developed-By-a-Human-Not-By-AI-Badge-white.png)](https://notbyai.fyi/#gh-light-mode-only)
